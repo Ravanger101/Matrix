@@ -1,3 +1,5 @@
 # Matrix-Virus-Prank
-Hope U see the video and photo and don't forget to follow me...
-This file is code in Notepad
+
+This program is intended to mimic the code style from `The Matrix`.
+
+Follow me (@Ravanger101) for more projects like this!
